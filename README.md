@@ -1,7 +1,6 @@
 - 👋 Hi, I’m usman bangash
 - 📖 I have done master in Computer Science
 - 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning node and express.js
 - 📫 How to reach me usmanbangash21@gmail.com
 
 
